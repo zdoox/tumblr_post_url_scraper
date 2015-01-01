@@ -1,0 +1,6 @@
+Scrapes posts from a user's tumblr page(s) and spits out their permalink URLs, _Quick 'n' Dirty_. 
+Warning! This script shouts! 
+Fork it, ... if you can! ;) 
+
+(C) 2012, realdomdom 
+Licensed under the "GNU General Public License":http://www.gnu.org/licenses/gpl-3.0.txt
