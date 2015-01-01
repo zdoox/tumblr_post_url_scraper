@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 
 /*
 *   Scrapes posts from a user's tumblr page(s) and spits out their permalink URLs, Quick 'n' Dirty.
